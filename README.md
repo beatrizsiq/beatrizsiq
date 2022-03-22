@@ -1,6 +1,6 @@
 ## Hi, I'm Beatriz!
 - :woman_technologist: Estudante de Sistemas de Informação.
-- :woman_office_worker: Trabalho no Hospital Santa Rosália no Suporte Avançado/Desenvolvimento (Oracle)
+- :woman_office_worker: Atualmente trabalho no Hospital Santa Rosália no Suporte Avançado/Desenvolvimento (Oracle)
 <div>
   <a href="https://github.com/beatrizsiq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizsiq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
