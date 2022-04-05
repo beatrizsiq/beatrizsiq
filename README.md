@@ -3,7 +3,6 @@
 - :woman_office_worker: Atualmente trabalho no Hospital Santa Rosália no Suporte Avançado/Desenvolvimento (Oracle)
 <div>
   <a href="https://github.com/beatrizsiq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizsiq&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsiq&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
