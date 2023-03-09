@@ -2,7 +2,7 @@
 - :woman_technologist: Estudante de Sistemas de Informação.
 - :woman_office_worker: Estagiária em Desenvolvimento Web na Siamel Softwares  
 <div>
-  <a href="https://github.com/beatrizsiq">
+  <a href="https://github.com/beatrizsiqueiras">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsiq&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
