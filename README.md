@@ -3,7 +3,9 @@
 - :woman_office_worker: Estagiária em Desenvolvimento Web na Siamel Softwares  
 <div >
   <a href="https://github.com/beatrizsiqueiras">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizsiqueiras&show_icons=true&locale=en&layout=compact&langs_count=7&theme=dracula" alt="beatrizsiqueiras" />
+</div>
+<div>
+  <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizsiqueiras&show_icons=true&locale=en&layout=compact&langs_count=7&theme=dracula" alt="beatrizsiqueiras" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bea-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
