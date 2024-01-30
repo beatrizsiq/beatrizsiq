@@ -1,7 +1,8 @@
 <h2 align="center">Hi, I'm Beatriz!</h2>
 
-<p align="center"> <strong>Full Stack Developer</strong></p>
+<h4 align="center"> <strong>Full Stack Developer</strong></h4>
 - 👩‍💻 Undergraduate student in Information Systems.
+
 - 💼 Currently working at Siamel Softwares.
 
 <div >
