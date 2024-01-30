@@ -1,6 +1,9 @@
 ## Hi, I'm Beatriz!
-- :woman_technologist: Graduanda em Sistemas de Informação.
-- :woman_office_worker: Programadora Full-stack na Siamel Softwares  
+<div style="text-align:center">
+  <p> Full Stack Developer </p>
+</div>
+- :woman_technologist: Undergraduate student in Information Systems.
+- :woman_office_worker: I’m currently working at Siamel Softwares  
 <div >
   <a href="https://github.com/beatrizsiqueiras">
 </div>
