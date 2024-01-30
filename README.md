@@ -1,17 +1,6 @@
-<p align="center">
-  <img src="sua-imagem-aqui.png" alt="Beatriz">
-</p>
-
 <h2 align="center">Hi, I'm Beatriz!</h2>
 
-<p align="center">Full Stack Developer</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Woman_Technologist-007acc?style=flat-square&logoColor=white" alt="Woman Technologist">
-  <img src="https://img.shields.io/badge/-Undergraduate_Student-007acc?style=flat-square&logoColor=white" alt="Undergraduate Student">
-  <img src="https://img.shields.io/badge/-Siamel_Softwares-007acc?style=flat-square&logoColor=white" alt="Siamel Softwares">
-</p>
-
+<p align="center"> <strong>Full Stack Developer</strong></p>
 - 👩‍💻 Undergraduate student in Information Systems.
 - 💼 Currently working at Siamel Softwares.
 
