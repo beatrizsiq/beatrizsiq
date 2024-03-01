@@ -4,7 +4,7 @@
 
 - 👩‍💻 Undergraduate student in Information Systems.
 
-- 💼 Currently working at Siamel Softwares.
+- 💼 Currently working at Contato Seguro.
 
 <div >
   <a href="https://github.com/beatrizsiqueiras">
